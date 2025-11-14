@@ -1,6 +1,6 @@
 export const site = {
   name: "Code Wizards",
-  shortName: "CW",
+  shortName: "",
   logo: "/favicon.png",
   favicon: "/favicon.ico",
   tagline: "Empowering Coders of Tomorrow",
